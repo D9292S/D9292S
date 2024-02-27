@@ -115,9 +115,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<!---### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arjuncvinod&limit=5&theme=dark&combine_all_yearly_contributions=true)--->
+<img src="https://raw.githubusercontent.com/D9292S/D9292S/output/snake.svg" alt="Snake animation" />
 
-
----
-<!---[![](https://visitcount.itsvg.in/api?id=arjuncvinod&icon=5&color=11)](https://visitcount.itsvg.in) -->
+###
