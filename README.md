@@ -1,76 +1,108 @@
-<!--[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)-->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Deepankar Singh</h1>
- 
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepankar%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Python+Developer;Computer+Science+Student" alt="Headline" />
-    </div> 
-
-<!--<p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>-->
-
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
-![GitHub followers](https://img.shields.io/github/followers/D9292S?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/D9292S?style=social)<img src="https://komarev.com/ghpvc/?username=D9292S" alt="" />
-
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture> <br> **About Me**
-
-
- <!--🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)-->
-
- 🌱 I’m currently learning **Python, A Newbie**
-
-
-
- 💬 Ask me about **MongoDB, MySQL**
-
-
-
- 📫 Reach out to me: **kdeepankar40@gmail.com**
-
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Python+Developer+%F0%9F%90%8D;Computer+Science+Student+%F0%9F%8E%93;Learning+%26+Building+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
 
-###
-
-<div align="left">
- <a href="https://discord.gg/BEswUKt9Dd">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
- </a>
+<!-- Profile Views & Social Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=D9292S&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="https://github.com/D9292S?tab=followers">
+    <img src="https://img.shields.io/github/followers/D9292S?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/D9292S?tab=repositories">
+    <img src="https://img.shields.io/github/stars/D9292S?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+  </a>
 </div>
 
+<br/>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=D9292S&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=swift" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=D9292S&theme=midnight-purple&hide_border=false" /> 
-</td>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px" align="center"> About Me
 
-<td width="50%" align="center">
+- 🎓 **Computer Science Student** passionate about coding
+- 🐍 Currently mastering **Python** and its ecosystem
+- 🗄️ Experience with **MongoDB** & **MySQL** databases
+- 🐳 Learning **Docker** for containerization
+- 💡 Always eager to learn new technologies
+- 🎯 Goal: Build impactful software solutions
+- 📫 Reach me at: **kdeepankar40@gmail.com**
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=D9292S&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=swift"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<br clear="right"/>
 
-<!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=D9292S&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="D9292S" /></a> </p>
-<!--- trophy (end) -->
+---
 
+## 🛠️ Tech Stack
 
-</p>
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+
+### Tools & Technologies  
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Tools"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:kdeepankar40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.gg/BEswUKt9Dd">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://github.com/D9292S">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=D9292S&show_icons=true&count_private=true&hide_border=true&title_color=6FDA44&icon_color=6FDA44&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D9292S&layout=compact&hide_border=true&title_color=6FDA44&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=D9292S&theme=dark&hide_border=true&stroke=6FDA44&ring=6FDA44&fire=6FDA44&currStreakLabel=6FDA44&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=D9292S&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D9292S&bg_color=0d1117&color=6FDA44&line=6FDA44&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
