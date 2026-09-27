@@ -261,10 +261,12 @@ hobbies:
 
 <br/>
 
-<!-- My Quote -->
+<!-- My Quote 
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=AI%20is%20not%20about%20replacing%20humans%2C%20it's%20about%20augmenting%20human%20capabilities.&author=Deepankar%20Singh" alt="Quote"/>
 </div>
+-->
 
 <br/>
 
