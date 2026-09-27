@@ -158,6 +158,7 @@ hobbies:
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!--
 ## 🎲 **Fun Facts About Me**
 
 <div align="center">
@@ -178,6 +179,7 @@ hobbies:
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&qColor=%2300D9FF&aColor=%23FF6B6B" alt="Jokes Card"/>
 </div>
+-->
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
